@@ -1,28 +1,51 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Dosage Form": {
+      "Tablets": {},
+      "Hard Capsules / Veg Capsules": {},
+      "Vegan Softgels": {},
+      "Gummies": {},
+      "Liquid Drops": {},
+      "Oral Spray": {},
+      "Powder / Granules": {},
+      "Oral Dissolving Strips": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Formulation Type": {
+      "Standalone Vegan D3": {},
+      "Vegan D3 + K2": {},
+      "Vegan D3 + Calcium": {},
+      "Vegan D3 + Magnesium": {},
+      "Vegan D3 + Multivitamin / Multinutrient Blend": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Dosage Strength": {
+      "Low Dose (Up to 1,000 IU)": {},
+      "Medium Dose (1,001-5,000 IU)": {},
+      "High Dose (Above 5,000 IU)": {}
     },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+    "By Health Positioning": {
+      "General Wellness": {},
+      "Bone & Teeth Health": {},
+      "Immune Support": {},
+      "Muscle Function Support": {},
+      "Healthy Aging Support": {},
+      "Deficiency Correction / Maintenance Support": {}
+    },
+    "By Prescription Status": {
+      "OTC / Over-the-Counter Supplements": {},
+      "Practitioner-Recommended Supplements": {},
+      "Rx-Linked / Clinically Positioned Supplements": {}
+    },
+    "By Distribution Channel": {
+      "B2C Online": {
+        "Brand-Owned Direct-to-Consumer (D2C)": {},
+        "Third-Party E-commerce Marketplaces": {}
+      },
+      "B2C Offline": {
+        "Pharmacies & Drug Stores": {},
+        "Supermarkets / Hypermarkets": {},
+        "Health & Specialty Stores": {},
+        "Others": {}
+      }
     },
     "By Region": {
       "North America": {
